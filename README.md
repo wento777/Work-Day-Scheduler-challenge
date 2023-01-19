@@ -18,7 +18,17 @@ Challenge# 05 Third-Party APIs: Work Day Scheduler
  - To get this project up and running, you can follow the deployment link.
 
 
-  Here is a link to the deployed application: 
+  Here is a link to the deployed application:
+
+https://wento777.github.io/Work-Day-Scheduler-challenge/
+
+
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+Here is the link to github web:
+
+https://github.com/wento777/Work-Day-Scheduler-challenge
+
 
 
 ## Prerequisites
