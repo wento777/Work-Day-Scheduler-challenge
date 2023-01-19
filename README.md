@@ -1,10 +1,46 @@
-er# 05 Third-Party APIs: Work Day Scheduler
+Challenge# 05 Third-Party APIs: Work Day Scheduler
 
-## Your Task
+# WORK DAY SCHEDULER CHALLENGE
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+- This project was designed as a homework assignment for KU coding bootcamp in Module 5 Challenge.
 
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
+- The purpose of this challenge was to build a work day scheduler, using our knowledge of HTML, CSS and JavaScript. We need to create a simple calendar application that allows a user to save events for each hour of the day. After that to run in the browser and feature dynamically updated HTML and CSS powered by jQuery
+
+- For this challenge we needed to clone the starter code repository and make our own repository with the starter code.
+
+- The starter code uses the Day.js Links to an external site.library to work with date and time, but feel free to use a different JavaScript solution to handle this functionality.
+
+- A major aspect of this challenge was the balance between figuring out which solution made sense and the solution that would be most efficient. 
+
+
+ This project has been deployed to GitHub. 
+ 
+ - To get this project up and running, you can follow the deployment link.
+
+
+  Here is a link to the deployed application: 
+
+
+## Prerequisites
+
+- To install this application, you will need a text editor. I recommend Visual Studio Code.
+
+
+## Installing
+
+- To install this code, download the zip file, or use GitHub's guidelines to clone the repository. 
+
+
+
+## Summary
+
+- Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+- The starter code uses the Day.js Links to an external site.library to work with date and time, but feel free to use a different JavaScript solution to handle this functionality.
+- This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document.
+- This project utilizes the use of appending HTML pages.
+
+
+
 
 ## User Story
 
@@ -32,68 +68,15 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+The following snapshot demonstrates the application 
+functionality:
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+- 
 
-## Grading Requirements
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+# Author
 
-This Challenge is graded based on the following criteria:
+- ANDREI FLOREA - Initial work - Git Hub Profile
+- WORK DAY SCHEDULER CHALLENGE
 
-### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the above acceptance criteria plus the following:
-
-  * Uses a date utility library to work with date and time
-
-### Deployment: 32%
-
-* Application deployed at live URL
-
-* Application loads with no errors
-
-* Application GitHub URL submitted
-
-* GitHub repo contains application code
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate
-
-* Application user interface style is clean and polished
-
-* Application resembles the mock-up functionality provided in the Challenge instructions
-
-### Repository Quality: 13%
-
-* Repository has a unique name
-
-* Repository follows best practices for file structure and naming conventions
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
