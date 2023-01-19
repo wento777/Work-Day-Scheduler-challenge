@@ -71,7 +71,7 @@ $("#hour-17 .description").val(localStorage.getItem("hour-17"));
 
   var unix = dayjs().unix();
 
-  //
+  //here i'm trying to display the day and time // current date in the html
   var unixFormatDate = dayjs.unix(unix).format("M/D/YYYY");
   $("#currentDay").text(unixFormatDate);
 
