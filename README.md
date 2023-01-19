@@ -71,7 +71,8 @@ THEN the saved events persist
 The following snapshot demonstrates the application 
 functionality:
 
-- 
+- ![Screenshot (52)](https://user-images.githubusercontent.com/70625665/213364119-9ed9ab6a-447b-4575-989c-cb36fa1edcb2.png)
+
 
 
 # Author
