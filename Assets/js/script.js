@@ -59,8 +59,24 @@ $("#hour-14 .description").val(localStorage.getItem("hour-14"));
 $("#hour-15 .description").val(localStorage.getItem("hour-15"));
 $("#hour-16 .description").val(localStorage.getItem("hour-16"));
 $("#hour-17 .description").val(localStorage.getItem("hour-17"));
+
+});
   
 
 
   // TODO: Add code to display the current date in the header of the page.
+//set a function unix to a variable
+
+  $(function () {
+
+  var unix = dayjs().unix();
+
+  //
+  var unixFormatDate = dayjs.unix(unix).format("M/D/YYYY");
+  $("#currentDay").text(unixFormatDate);
+
 });
+  
+
+
+
